@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896172155894",
+    "project_id": "color-flashcards-for-kids",
+    "storage_bucket": "color-flashcards-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896172155894:android:e093900f17c298765fddd7",
+        "android_client_info": {
+          "package_name": "com.darshankomu.color_flashcards_for_kids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuYKbalabG9pqKz7jbDhb7Fx2ZLz8kKDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
